@@ -27,7 +27,7 @@ Make sure you have **Node.js** and **npm** installed. You can install Node via [
 
 ```bash
 # 1. Clone the repository
-git clone 
+git clone https://github.com/CHANDRAMOULI3429/Digital-Hoop-Interview-Project.git
 
 # 2. Navigate to the project folder
 cd Digital_Hoop_Medical_project
