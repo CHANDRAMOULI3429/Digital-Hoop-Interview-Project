@@ -29,12 +29,8 @@ Make sure you have **Node.js** and **npm** installed. You can install Node via [
 # 1. Clone the repository
 git clone https://github.com/CHANDRAMOULI3429/Digital-Hoop-Interview-Project.git
 
-# 2. Navigate to the project folder
-cd Digital_Hoop_Medical_project
-cd frontend
-
-# 3. Install dependencies
+# 2. Install dependencies
 npm install
 
-# 4. Start the development server
+# 3. Start the development server
 npm run dev
