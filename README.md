@@ -1,8 +1,8 @@
 # Medical Dashboard UI
 
 ## 🔗 GitHub Repository  
-[https://github.com/rajesh1403developer/Medical-Project](https://github.com/rajesh1403developer/Medical-Project)
 
+https://github.com/CHANDRAMOULI3429/Digital-Hoop-Interview-Project.git
 ---
 
 ## Project Info
@@ -27,10 +27,11 @@ Make sure you have **Node.js** and **npm** installed. You can install Node via [
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/rajesh1403developer/Medical-Project.git
+git clone 
 
 # 2. Navigate to the project folder
-cd Medical-Project
+cd Digital_Hoop_Medical_project
+cd frontend
 
 # 3. Install dependencies
 npm install
